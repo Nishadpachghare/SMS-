@@ -1,0 +1,33 @@
+.btn {
+  margin-right: 1rem;
+  background-color: #000000;
+  color: #fff;
+  border-radius: 25px;
+  padding: 0.5rem 1.5rem;
+  font-weight: bold;
+  box-shadow: 0 2px 8px rgba(26,35,126,0.15);
+  transition: background 0.2s, box-shadow 0.2s;
+}
+.btn:hover {
+  background-color: #ffffff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+color: #000000;
+}
+.collapse {
+  width: 100vw;
+  display: flex;
+  justify-content: right;
+}
+
+.container-fluid {
+  background-color: #FDECE7;
+}
+
+.container-fluid {
+  width: 100%;
+}
+
+.nav-item {
+  margin-left: 25px;
+  margin-right: 25px;
+}
