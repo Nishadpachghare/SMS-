@@ -1,8 +1,8 @@
 import React from 'react'
 import Commtieehero from './components/Commtieehero'   
 import Commiteeadmin from './components/Commiteeadmin'
-import Commiteeresidence from './components/commiteeresidence'
-import Commiteetestominal from './components/commiteetestominal'
+import Commiteeresidence from './components/Commiteeresidence'
+import Commiteetestominal from './components/Commiteetestominal'
 import Footer from './layout/Footer'
 function Commitee() {
   return (
