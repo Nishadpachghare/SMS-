@@ -33,7 +33,7 @@ function key() {
     <div className='pt-10 pb-10'>
        <button 
          type="button" 
-         onClick={() => window.location.href ='/contact'}
+         onClick={() => window.location.href ='/Contact'}
          className="p-2 rounded-full border-[2px] border-black text-black text-base hover:bg-[black] hover:text-white"
        >
          Schedule a Demo Now!
