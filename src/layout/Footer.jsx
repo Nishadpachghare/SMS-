@@ -6,9 +6,9 @@ function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-10 grid grid-cols-1 md:grid-cols-4 gap-8">
         <div>
           <img 
-            src="SMS_Blue_logo[1].png" 
+            src="smslogo3.png" 
             alt="logo" 
-            className="w-[95px] h-[40px] mb-4" 
+            className="w-[95px] h-[85px] mb-5"
           />
           <p className="text-white text-lg font-semibold">
             Simplifying Community <br /> Living.

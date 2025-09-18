@@ -22,10 +22,10 @@ function Navbar() {
         isScrolled ? 'bg-white shadow-md' : 'bg-transparent'
       }`}
     >
-      <div className="p-3 m-3 flex justify-between items-center">
+      <div className=" m-3 flex justify-between items-center">
         {/* Logo */}
-        <div>
-          <img className="w-36 h-auto" src="/SMS_Blue_logo[1].png" alt="logo" />
+        <div className="flex items-center">
+          <img className="w-22 h-20 pb-1" src="smslogo3.png" alt="logo" />
         </div>
 
         {/* Hamburger for Mobile */}
